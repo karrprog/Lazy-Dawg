@@ -16,9 +16,9 @@
     border-radius:4px;
     border:1px solid #969595;
     transition: all 0.3s linear;
-    image-width: 80%;
-    image-height: auto;
-    image-margin: auto;
+    max-width: 80%;
+    image-rendering: auto;
+    shape-margin: auto;
 }
 
 .wtf{
@@ -38,6 +38,13 @@
 .back{
   /* background-image: url(../Images/Wood_background.jpg); */
   background-image: url(../Images/Background.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.back{
+  /* background-image: url(../Images/Wood_background.jpg); */
+  background-image: url(../Images/AmericanFlag.jpg);
   background-size: cover;
   background-position: center;
 }

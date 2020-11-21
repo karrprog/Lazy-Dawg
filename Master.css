@@ -16,9 +16,9 @@
     border-radius:4px;
     border:1px solid #969595;
     transition: all 0.3s linear;
-    image-width: 80%;
-    image-height: auto;
-    image-margin: auto;
+    max-width: 80%;
+    image-rendering: auto;
+    shape-margin: auto;
 }
 
 .wtf{
