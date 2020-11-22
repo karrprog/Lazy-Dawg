@@ -49,6 +49,12 @@
   background-position: center;
 }
 
+.FlagPic{
+  width: 25%;
+  float: left;
+  height: auto;
+}
+
 .ldlg{
   width: 100px;
   height: 100px;
