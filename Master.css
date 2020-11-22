@@ -55,6 +55,11 @@
   height: auto;
 }
 
+.AboutP{
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+}
+
 .ldlg{
   width: 100px;
   height: 100px;
