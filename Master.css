@@ -51,7 +51,7 @@
 
 .FlagPic{
   width: 25%;
-  float: left;
+  text-align: center;
   height: auto;
 }
 
@@ -60,6 +60,7 @@
   font-family: 'Times New Roman', Times, serif;
   width: 25%;
   font-weight: bold;
+  text-align: center;
 }
 
 .ldlg{
